@@ -1,4 +1,4 @@
 # hello-world
 
-bit of interesting
+kind of interesting
 I'm just following the guides.
